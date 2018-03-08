@@ -1,0 +1,18 @@
+Hey, All
+
+This is Langton-Ant application in sage2. 
+
+This application's authors are:
+Harold Zang
+Suyang Zhang
+
+Functions:
+1. Users are able to add new ants, the new ants' color are random.
+2. Users are able to change ants' speed.
+3. Users are able to change ants' size.
+4. Users are able to change first ant's color.
+5. Users are able to change background color.
+
+Issue:
+1. In some special cases, it will show synchronization issue (When high way cross screens, it will not sync).
+2. Too big size (More than 6 * 4 screens), it will breakdown sage2 application.

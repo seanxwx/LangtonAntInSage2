@@ -1,0 +1,18 @@
+{
+	"main_script": "langton_ant.js",
+	"icon": "langton_ant.png",
+	"width": 800,
+	"height": 600,
+	"resize": "free",
+	"dependencies": [
+	],
+	"load": {
+		"value": 4
+	},
+	"title": "LangtonAnt",
+	"version": "3.14.15926",
+	"description": "This is Langton ant Application",
+	"keywords": [ "DOM", "demo", "LangtonAnt" ],
+	"author": "Harold Zang; SuYang Zhang",
+	"license": "SAGE2-Software-License"
+}
